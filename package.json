@@ -1,0 +1,15 @@
+{
+  "name": "shine-jobs-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Times Group India job board, 22 fields, monitor mode. Python, Node.js and cURL clients for the Shine.com Jobs Scraper on Apify, pay per result.",
+  "main": "shine_jobs_scraper.mjs",
+  "scripts": {
+    "start": "node shine_jobs_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/shine-jobs-scraper/"
+}
