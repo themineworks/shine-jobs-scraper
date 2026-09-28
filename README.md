@@ -5,7 +5,7 @@ Scrape live Shine.com (Times Group) job listings across IT, BPO, banking, retail
 **Run it on Apify:** [apify.com/themineworks/shine-jobs-scraper](https://apify.com/themineworks/shine-jobs-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/shine-jobs-scraper](https://themineworks.com/actors/shine-jobs-scraper/)
 
-**Price:** $2.50 per 1,000 jobs on Apify's free plan, down to $1.50 on higher plans. Failed and empty results are never charged.
+**Price:** From $1.50 per 1,000 jobs on Apify's higher plans ($2.50 on the free plan). Failed and empty results are never charged.
 
 ## What it returns
 
@@ -155,7 +155,7 @@ Yes. Set sortBy to freshness, and turn on monitorMode to charge only for genuine
 
 ### What does it cost?
 
-Pay per event: one job-scraped event per delivered record, charged only after validation. Empty and failed searches are never billed.
+Pay per event: one job-scraped event per delivered record, charged only after validation. Failed and empty results are never charged.
 
 ### Can I export the results to CSV or Excel?
 
